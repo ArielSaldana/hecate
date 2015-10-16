@@ -42,4 +42,5 @@ Full page Scroll implementation
 #functions
 
 `addEvent('.arrowdown', 1);`
+
 `addEvent('#arrowdown', 0);`
